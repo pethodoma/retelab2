@@ -72,8 +72,6 @@ public class TrainControllerImpl implements TrainController {
 		else
 			this.step = joystickPosition;
 
-		followSpeed();
-				
 	}
 
 }
